@@ -1,3 +1,4 @@
+//Random Number Generation
 package CODSOFT;
 import java.util.Scanner;
 class RNG{
@@ -31,6 +32,7 @@ class RNG{
          attempt++;
 
        }
+       sc.close();
     }
 
 }
